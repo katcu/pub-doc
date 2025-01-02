@@ -1,7 +1,3 @@
-navigation:
-  - title: "首页"
-    url: "/"
-  - title: "文档"
-    url: "/docs/"
-  - title: "关于"
-    url: "/about/"
+     title: katcu的公开站
+     description: 用做文档收集和发布
+     theme: just-the-docs
