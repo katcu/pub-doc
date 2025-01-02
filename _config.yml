@@ -1,3 +1,7 @@
-     title: katcu的公开站
-     description: 用做文档收集和发布
-     theme: just-the-docs
+   title: 你的网站标题
+   description: 你的网站描述
+   remote_theme: just-the-docs/just-the-docs
+   
+   # 可选的主题设置
+   color_scheme: light  # 或 light
+   search_enabled: true
